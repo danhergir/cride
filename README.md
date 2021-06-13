@@ -31,5 +31,5 @@ The purpose of this project is to solve a personal issue. It's been hard to me t
 ***Instructions to run the project***
 		
 	docker-compose -f local.yml build
-	docker-compose -flocal.yml up
+	docker-compose -f local.yml up
 		
